@@ -18,7 +18,7 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
+  * Nina Orwitz
 2. 
   * 
 3. 
